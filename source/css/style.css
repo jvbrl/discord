@@ -105,7 +105,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 25px;
     font-weight: 700;
-    color: #5219f0;
+    color: #EEEBDD;
     margin-top: 0;
     margin-bottom: 0;
     margin-left: 7%;
@@ -119,7 +119,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 25px;
     font-weight: 700;
-    color: #5219f0;
+    color: #EEEBDD;
     margin-top: 0;
     margin-bottom: 0;
     margin-left: 7%;
@@ -184,7 +184,7 @@ body {
 .socials a { 
     text-decoration: none;
     font-size: 20px;
-    color: #0040ff;
+    color: #630000;
     padding: 0 14px;
     transition-duration: 0.4s;
     transition-property: transform;
@@ -193,7 +193,7 @@ body {
 .socials a { 
     text-decoration: none;
     font-size: 20px;
-    color: #5219f0;
+    color: #630000;
     padding: 0 14px;
     transition-duration: 0.4s;
     transition-property: transform;
@@ -267,7 +267,11 @@ body {
 }
     }
 
-.link {
+a#link {
     text-decoration: none;
-    color: purple;
+    color: #EEEBDD;
+}
+
+ a#link:hover {
+    text-decoration: underline;
 }
