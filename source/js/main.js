@@ -1,6 +1,6 @@
 var rev = "fwd";
     function titlebar(val){
-        var msg  = "abusadinhos";
+        var msg  = "trairam nossa confiança";
         var res = " ";
         var speed = 100;
         var pos = val;
